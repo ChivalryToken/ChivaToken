@@ -1,6 +1,6 @@
 # ChivalryToken
 
-ChivalryToken is a decentralized ERC-20 token built on the Ethereum blockchain. It is designed to incentivize and reward chivalrous behavior and community involvement.
+ChivalryToken is a decentralized ERC-20 token built on the Ethereum L2 Arbitrum blockchain. It is designed to incentivize and reward chivalrous behavior and community involvement.
 
 # Installation
 
